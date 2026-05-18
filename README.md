@@ -3,7 +3,7 @@
 
 # Architecture Diagram
 
-![Hybrid Mail Architecture](screenshots/enterprise-hybrid-mail-architecture.png)
+![Hybrid Mail Architecture](Screenshots/enterprise-hybrid-mail-architecture.png)
 
 ## Project Overview
 
