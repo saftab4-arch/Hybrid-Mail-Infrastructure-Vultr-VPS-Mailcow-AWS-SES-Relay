@@ -1,5 +1,10 @@
 # Hybrid Mail Infrastructure: Vultr VPS + Mailcow + AWS SES Relay
 
+
+# Architecture Diagram
+
+![Hybrid Mail Architecture](screenshots/enterprise-hybrid-mail-architecture.png)
+
 ## Project Overview
 
 In this project, I built a production-style hybrid mail infrastructure using:
